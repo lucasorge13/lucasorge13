@@ -10,7 +10,7 @@ Hello! I'm Lucas Martins Sorge, a computer scientist with a focus on data scienc
 #### 🤝 Connect with Me
 
 Stay connected and follow my projects and updates:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Sorge-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/lucas-sorge)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Sorge-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/lucas-sorge-)
 
 #### 🛠 Skills Overview
 
