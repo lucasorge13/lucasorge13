@@ -42,13 +42,12 @@ My technical proficiency includes a broad range of programming languages, tools,
 #### 📘 Recent Learning and Certifications
 
 - Advanced Data Structures and Algorithms
-- Full-Stack Web Development with React
-- Mobile App Development with Flutter
+- Full-Stack Web Development
 
 #### 🌱 I’m currently learning
 
 - Machine Learning and AI applications in real-world scenarios
-- Advanced Backend Development with Node.js and Express
+- Advanced Backend Development
 
 #### 📫 How to Reach Me
 
