@@ -56,13 +56,3 @@ My technical proficiency includes a broad range of programming languages, tools,
 
 For collaboration or inquiries, feel free to contact me:
 - Email: [lucasorge13@gmail.com](mailto:lucasorge13@gmail.com)
-
-#### 🌱 I’m currently learning
-
-- Machine Learning and AI applications in real-world scenarios
-- Advanced Backend Development
-
-#### 📫 How to Reach Me
-
-For collaboration or inquiries, feel free to contact me:
-- Email: [lucasorge13@gmail.com](mailto:lucasorge13@gmail.com)
