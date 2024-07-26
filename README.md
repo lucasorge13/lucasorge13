@@ -3,6 +3,7 @@
 ### 🎓 Computer Science and Data Science Student at Iowa State University
 
 ---
+
 #### 👋 Introduction
 
 Hello! I'm Lucas Martins Sorge, a computer scientist with a focus on data science. I'm currently pursuing my Bachelor's in Computer Science and Data Science at Iowa State University.
@@ -33,15 +34,17 @@ My technical proficiency includes a broad range of programming languages, tools,
 
 #### 📁 Featured Projects
 
-- **Accessible City Navigation App**: Enhancing urban mobility for individuals with disabilities using advanced GPS and mapping technologies.
+- **Neural Network Project**: Designed and implemented a neural network from scratch, using various optimization techniques and activation functions to improve accuracy and performance. Utilized Python and relevant libraries such as TensorFlow and NumPy.
   
-- **Computer History Educational Website**: Educating on the evolution of computing with interactive content and design.
-
-- **Solar Heater Company Simulation**: Visualizing solar energy benefits through a simulated platform with real-time data analytics.
-
+- **Chess Engine**: Developed a chess engine from scratch using advanced algorithms and techniques to simulate intelligent gameplay. Implemented evaluation functions and move generation algorithms to enhance decision-making capabilities. Utilized Java for optimal performance and efficiency.
+  
+- **Sorting Visualizer**: Developed a visualizer tool to demonstrate the sorting process using sort algorithms. Implemented in JavaScript, HTML, and CSS to visualize the step-by-step sorting process. Created an intuitive and interactive user interface for better understanding and educational purposes.
+  
+- **PathFind Visualizer**: Developed a visualizer tool to demonstrate the pathfinding process using pathfinder algorithms. Implemented in JavaScript, HTML, and CSS to visualize the step-by-step pathfinding process. Created an intuitive and interactive user interface for better understanding and educational purposes.
+  
 #### 📘 Recent Learning and Certifications
 
-- Advanced Data Structures and Algorithms
+- Advanced-Data Structures and Algorithms
 - Full-Stack Web Development
 
 #### 🌱 I’m currently learning
@@ -54,9 +57,12 @@ My technical proficiency includes a broad range of programming languages, tools,
 For collaboration or inquiries, feel free to contact me:
 - Email: [lucasorge13@gmail.com](mailto:lucasorge13@gmail.com)
 
----
+#### 🌱 I’m currently learning
 
-<!---
-lucasorge13/lucasorge13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Machine Learning and AI applications in real-world scenarios
+- Advanced Backend Development
+
+#### 📫 How to Reach Me
+
+For collaboration or inquiries, feel free to contact me:
+- Email: [lucasorge13@gmail.com](mailto:lucasorge13@gmail.com)
