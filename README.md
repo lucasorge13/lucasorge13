@@ -54,19 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasorge13/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasorge13/count.svg?"  />
-</div>
-
-###
