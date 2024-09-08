@@ -57,8 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasorge13/main/dist/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
