@@ -55,21 +55,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucasorge13/lucasorge13/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasorge13/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucasorge13/count.svg?"  />
-</div>
-
-###
 
