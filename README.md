@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Lucas  Sorge, and I'm a Computer Science Student from Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Lucas  Sorge, and I'm a Computer Science Student.</h2>
 
 ###
 
